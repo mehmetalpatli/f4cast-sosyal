@@ -1,0 +1,95 @@
+1
+00:00:00,300 --> 00:00:03,605
+Bu seride AGY-112 Bölüm 4.4 başa baş
+
+2
+00:00:03,655 --> 00:00:07,558
+analizini üç kısa videoda ele alıyoruz.
+
+3
+00:00:07,601 --> 00:00:09,294
+İlki, formun kısıtları.
+
+4
+00:00:10,244 --> 00:00:12,447
+Form tek ürün ve tek sütun ister.
+
+5
+00:00:12,979 --> 00:00:15,540
+Birim fiyattan birim maliyeti çıkarır,
+
+6
+00:00:15,590 --> 00:00:17,992
+toplam sabit maliyeti bu marja böler.
+
+7
+00:00:18,082 --> 00:00:19,725
+Sonuç, başa baş adedidir.
+
+8
+00:00:20,675 --> 00:00:25,147
+Tek ürün ve sabit fiyatla F4CAST da PDF de aynı sonucu bulur:
+
+9
+00:00:24,823 --> 00:00:26,070
+500 adet.
+
+10
+00:00:26,078 --> 00:00:28,165
+Gerçek hayat böyle olsaydı,
+
+11
+00:00:28,215 --> 00:00:32,345
+bu tabloları hazırlamak zaten çok kolay bir iş olurdu.
+
+12
+00:00:33,295 --> 00:00:36,537
+Oysa gerçek bir girişim birden çok ürün satar.
+
+13
+00:00:36,804 --> 00:00:39,179
+Fiyatı ve maliyeti her yıl değişir,
+
+14
+00:00:39,229 --> 00:00:42,774
+büyüdükçe sabit maliyeti de basamak basamak artar.
+
+15
+00:00:42,876 --> 00:00:46,499
+Formda ise her satır tek hücredir, yıl sütunu yoktur.
+
+16
+00:00:47,449 --> 00:00:49,465
+Formül bazı şeyleri hiç görmez.
+
+17
+00:00:49,877 --> 00:00:52,803
+Diğer gelirler tabloda yer alır ama hesaba girmez.
+
+18
+00:00:53,387 --> 00:00:56,141
+Proje dönemi harcamalarının yeri belli değildir.
+
+19
+00:00:56,505 --> 00:00:59,876
+Kâğıtta başa baş olan bir girişimin kasası boş olabilir.
+
+20
+00:00:59,906 --> 00:01:03,850
+Abonelikte bir adedin neye denk geldiğini sen tanımlarsın.
+
+21
+00:01:04,800 --> 00:01:09,709
+Aynı kurgusal girişim, aynı formülle dört farklı sonuç bulabilir:
+
+22
+00:01:09,976 --> 00:01:17,464
+1.250, 2.375, 6.778 ya da 12.708 adet.
+
+23
+00:01:18,414 --> 00:01:21,498
+Peki gerçek işini bu forma nasıl sığdırırsın?
+
+24
+00:01:21,777 --> 00:01:24,220
+İkinci videoda adım adım gösteriyoruz.

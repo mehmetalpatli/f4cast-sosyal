@@ -1,0 +1,39 @@
+1
+00:00:00,300 --> 00:00:04,997
+AGY-112’de başa baş analizi bölümü senden tek bir sayı ister.
+
+2
+00:00:05,947 --> 00:00:07,058
+Oysa üç ürünün var;
+
+3
+00:00:07,551 --> 00:00:10,077
+fiyatların ve maliyetlerin her yıl değişiyor.
+
+4
+00:00:10,620 --> 00:00:13,251
+Aynı formülle dört farklı başa baş bulabilirsin.
+
+5
+00:00:14,201 --> 00:00:16,193
+F4CAST Financials.
+
+6
+00:00:16,443 --> 00:00:18,313
+İşini olduğu gibi kurarsın:
+
+7
+00:00:18,498 --> 00:00:21,068
+istediğin kadar ürün, her yıl ayrı rakam.
+
+8
+00:00:21,509 --> 00:00:24,323
+Model bunu formun istediği tek sütuna indirir.
+
+9
+00:00:26,273 --> 00:00:28,873
+PDF’e girdiğinde aynı sonucu bulursun.
+
+10
+00:00:32,323 --> 00:00:35,566
+Hesabını oluştur, başa baş analizini bugün kur.

@@ -1,0 +1,87 @@
+1
+00:00:00,300 --> 00:00:01,957
+Serinin ikinci videosu.
+
+2
+00:00:02,454 --> 00:00:03,225
+Üç ürünlü,
+
+3
+00:00:03,275 --> 00:00:09,380
+rakamları her yıl değişen bir işi AGY-112 Bölüm 4.4 formuna sığdırıyoruz.
+
+4
+00:00:10,330 --> 00:00:12,322
+F4CAST Financials.
+
+5
+00:00:12,572 --> 00:00:14,825
+İstediğin kadar ürün eklersin.
+
+6
+00:00:14,738 --> 00:00:18,722
+Her ürünün her yıl ayrı adedi, fiyatı ve maliyeti olur.
+
+7
+00:00:18,959 --> 00:00:22,974
+Yatırım harcamaları, yani CAPEX, yapıldığı yıla yazılır.
+
+8
+00:00:23,924 --> 00:00:29,016
+Diğer gelirler tabloda gösterilir, ama formun başa baş hesabına girmez.
+
+9
+00:00:28,695 --> 00:00:31,759
+Böylece sonuçlar PDF ile birebir uyar.
+
+10
+00:00:32,709 --> 00:00:37,667
+Ürünler, satış adetleriyle ağırlıklandırılarak temsili tek ürüne dönüşür.
+
+11
+00:00:37,771 --> 00:00:42,519
+Yıl 0 anahtarını açınca proje giderleri yalnız birinci yıla eklenir;
+
+12
+00:00:42,393 --> 00:00:46,666
+sabit maliyet 6 milyondan 7 milyon 350 bine çıkar.
+
+13
+00:00:46,688 --> 00:00:48,779
+Başa baş her yıl ayrı hesaplanır.
+
+14
+00:00:49,729 --> 00:00:52,599
+Faaliyet sonucu üçüncü yılda artıya geçer,
+
+15
+00:00:52,649 --> 00:00:55,194
+biriken zarar dördüncü yılda kapanır.
+
+16
+00:00:55,500 --> 00:00:57,952
+Nakit başa baş noktası da ayrıca görünür.
+
+17
+00:00:58,902 --> 00:01:03,196
+Dönemi ve yöntemi seçince forma aktarılacak tek sütun hazırdır.
+
+18
+00:01:03,302 --> 00:01:09,309
+Toplam sabit maliyet 11 milyon 670 bin lira, başa baş 2.151 adet.
+
+19
+00:01:10,259 --> 00:01:14,327
+Bu değerleri PDF’e girince PDF de aynı sonucu bulur.
+
+20
+00:01:14,377 --> 00:01:17,758
+Varsayımların açıklaması da hazır gelir.
+
+21
+00:01:18,708 --> 00:01:21,758
+Gerçek işini kısıtlamadan modelle,
+
+22
+00:01:21,808 --> 00:01:25,788
+AGY-112 Bölüm 4.4 tablolarını aynı veriden üret.
