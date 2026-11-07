@@ -1,0 +1,91 @@
+1
+00:00:00,300 --> 00:00:02,000
+Bu, serinin üçüncü videosu.
+
+2
+00:00:02,050 --> 00:00:06,218
+İlk iki videoda formun kısıtlarını gördük ve tabloları kurduk.
+
+3
+00:00:06,823 --> 00:00:10,753
+Şimdi aynı modelin uygulayıcı kuruluşlara ne sağladığına bakalım.
+
+4
+00:00:11,703 --> 00:00:16,282
+TÜBİTAK BİGG kılavuzu, uygulayıcı kuruluşlardan girişimcilere iş modeli,
+
+5
+00:00:16,332 --> 00:00:20,837
+finansal projeksiyon ve fonlama konularında destek vermelerini bekler.
+
+6
+00:00:20,699 --> 00:00:22,785
+Bu destek arasında Excel tabanlı
+
+7
+00:00:22,835 --> 00:00:25,760
+hesaplama ve bütçeleme şablonları da yer alır.
+
+8
+00:00:25,749 --> 00:00:30,536
+Kuruluşlar bu beklentinin finansal kısmını tek bir modelle karşılayabilir.
+
+9
+00:00:31,486 --> 00:00:33,478
+F4CAST Financials.
+
+10
+00:00:33,728 --> 00:00:37,812
+Girişimci burada gelir modelini ve fiyatlandırmasını kurar.
+
+11
+00:00:37,939 --> 00:00:39,694
+Müşteri edinme maliyetini,
+
+12
+00:00:39,744 --> 00:00:43,933
+müşteri yaşam boyu değerini ve aralarındaki oranı yıl yıl izler.
+
+13
+00:00:44,883 --> 00:00:51,128
+Kılavuz üç yıllık gelir gider ve nakit akışı projeksiyonu bekler.
+
+14
+00:00:51,444 --> 00:00:58,453
+Burada projeksiyon, geliştirme döneminden beşinci yıl sonuna kadar uzanır.
+
+15
+00:00:59,403 --> 00:01:02,460
+On sekiz aylık yol haritasının finansal ihtiyacı ve
+
+16
+00:01:02,510 --> 00:01:05,850
+fonlama stratejisinin rakamları nakit akışından gelir.
+
+17
+00:01:05,650 --> 00:01:08,746
+Yatırımlar ilgili yıla varsayımlardan girilir.
+
+18
+00:01:08,736 --> 00:01:12,348
+Ekibin maliyeti ve yıllara göre dağılımı da aynı modeldedir.
+
+19
+00:01:13,298 --> 00:01:14,849
+Ürün geliştirme takvimi,
+
+20
+00:01:14,899 --> 00:01:18,815
+regülasyon ya da uluslararasılaşma bu aracın alanı değildir.
+
+21
+00:01:18,832 --> 00:01:22,220
+Finansal kısım ise tek modelde toplanır ve
+
+22
+00:01:22,270 --> 00:01:26,136
+AGY-112 Bölüm 4.4 tabloları aynı veriden üretilir.
+
+23
+00:01:26,551 --> 00:01:30,788
+Kurumsal paketle programdaki tüm girişimler aynı modelde çalışabilir.

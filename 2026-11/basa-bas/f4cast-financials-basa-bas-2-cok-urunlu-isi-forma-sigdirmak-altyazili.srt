@@ -1,0 +1,279 @@
+1
+00:00:00,300 --> 00:00:02,074
+Bu, serinin ikinci videosu.
+
+2
+00:00:02,453 --> 00:00:04,810
+İlk videoda formun kısıtlarını gördük.
+
+3
+00:00:05,062 --> 00:00:08,292
+Şimdi gerçek bir işi adım adım forma sığdırıyoruz.
+
+4
+00:00:09,242 --> 00:00:13,521
+Üç ürünün var, beş yıllık planın var ve rakamların her yıl değişiyor.
+
+5
+00:00:13,571 --> 00:00:17,309
+AGY-112 Bölüm 4.4 ise tek sütun istiyor.
+
+6
+00:00:17,354 --> 00:00:20,939
+Bu videoda aynı işi önce gerçekte olduğu gibi kuracağız,
+
+7
+00:00:20,989 --> 00:00:25,039
+sonra forma sığdıracağız ve sonucu PDF ile karşılaştıracağız.
+
+8
+00:00:25,989 --> 00:00:27,981
+F4CAST Financials.
+
+9
+00:00:28,231 --> 00:00:32,531
+Önce işini gerçekte olduğu gibi kur, sonra forma sığdır.
+
+10
+00:00:33,481 --> 00:00:35,681
+İstediğin kadar ürün eklersin.
+
+11
+00:00:35,698 --> 00:00:37,239
+Bu örnekte üç ürün var.
+
+12
+00:00:37,402 --> 00:00:41,912
+Her ürünün her yıl ayrı adedi, ayrı fiyatı, ayrı birim maliyeti var.
+
+13
+00:00:41,962 --> 00:00:47,105
+Üretim personelini, enerjiyi ve dağıtımı yıllık tutar olarak girersin.
+
+14
+00:00:47,155 --> 00:00:52,730
+Üçüncü yıldaki 2,5 milyon liralık makine yatırımı, olduğu yıla yazılır.
+
+15
+00:00:53,680 --> 00:00:55,952
+Bu örnekte ikinci ve dördüncü yılda
+
+16
+00:00:56,002 --> 00:00:58,429
+500 bin lira danışmanlık geliri de var.
+
+17
+00:00:58,366 --> 00:01:02,048
+Gerçek hayatta bu gelir işinin dengesini elbette etkiler.
+
+18
+00:01:01,963 --> 00:01:05,296
+AGY-112'nin başa baş hesabı ise onu kullanmaz.
+
+19
+00:01:04,895 --> 00:01:07,501
+Sonuçların PDF ile birebir uyması için
+
+20
+00:01:07,551 --> 00:01:10,317
+diğer gelirler burada yalnız gösterilir;
+
+21
+00:01:10,367 --> 00:01:14,157
+TÜBİTAK için hazırlanan başa baş analizlerinde kullanılmaz.
+
+22
+00:01:15,107 --> 00:01:16,538
+Tablo 4.4.1'de üç ürün,
+
+23
+00:01:16,588 --> 00:01:18,575
+her yıl satış adetleriyle
+
+24
+00:01:18,625 --> 00:01:22,649
+ağırlıklandırılarak temsili tek bir ürüne dönüşür.
+
+25
+00:01:23,094 --> 00:01:28,419
+Birinci yılda temsili fiyat 7.000 lira, beşinci yılda 9.642 liradır.
+
+26
+00:01:28,940 --> 00:01:32,367
+Tablo 4.4.2'de yıllık tutarlar birime iner.
+
+27
+00:01:32,417 --> 00:01:36,330
+Birim ürün maliyeti birinci yılda 4.789
+
+28
+00:01:36,380 --> 00:01:40,414
+liradan beşinci yılda 3.486 liraya düşer.
+
+29
+00:01:41,364 --> 00:01:45,253
+Tablo 4.4.3'te sabit maliyetler yıl yıl görünür.
+
+30
+00:01:45,751 --> 00:01:49,907
+Anahtar kapalıyken birinci yılın toplam sabit maliyeti 6 milyon liradır.
+
+31
+00:01:50,557 --> 00:01:54,490
+Yıl 0 proje giderlerini birinci yıla dahil etmek için anahtarı açarsın.
+
+32
+00:01:54,988 --> 00:01:59,217
+Makine ve teçhizat 350 bin, diğer sabit maliyetler 1 milyon lira artar;
+
+33
+00:01:59,738 --> 00:02:02,869
+toplam sabit maliyet 7 milyon 350 bin liraya çıkar.
+
+34
+00:02:03,340 --> 00:02:04,731
+Değişen yalnız birinci yıldır.
+
+35
+00:02:05,368 --> 00:02:09,386
+Tablo 4.4.4'te başa baş adedi her yıl için ayrı hesaplanır:
+
+36
+00:02:09,970 --> 00:02:14,112
+3.324 adetten, beşinci yılda 2.599 adede.
+
+37
+00:02:15,062 --> 00:02:16,859
+Artık gerçek resim görünür.
+
+38
+00:02:17,292 --> 00:02:19,749
+Faaliyet sonucu üçüncü yılda artıya geçer.
+
+39
+00:02:19,799 --> 00:02:22,562
+Biriken zarar yaklaşık 9 milyon liraya
+
+40
+00:02:22,612 --> 00:02:25,290
+kadar çıkar ve dördüncü yılda kapanır.
+
+41
+00:02:25,751 --> 00:02:28,311
+Tahsilat ve ödeme vadelerini de girdiğin
+
+42
+00:02:28,361 --> 00:02:31,071
+için nakit başa baş noktanı ayrıca görürsün.
+
+43
+00:02:32,021 --> 00:02:33,553
+Şimdi tek sütuna inelim.
+
+44
+00:02:33,751 --> 00:02:35,531
+Hesaplama dönemini seçersin.
+
+45
+00:02:35,733 --> 00:02:36,718
+Yöntemi seçersin:
+
+46
+00:02:37,166 --> 00:02:41,465
+ortalama bir yılda gereken adet ya da dönem boyunca gereken toplam adet.
+
+47
+00:02:41,407 --> 00:02:45,342
+Yıl 1 ile 5 arasını ve ortalama yıllık yöntemi seçelim.
+
+48
+00:02:45,528 --> 00:02:45,941
+Beş yıl,
+
+49
+00:02:45,991 --> 00:02:48,645
+satış adetleriyle ağırlıklandırılır ve
+
+50
+00:02:48,695 --> 00:02:51,117
+forma aktarılacak tek sütun üretilir.
+
+51
+00:02:52,067 --> 00:02:54,019
+Yıllık ortalama 3.170 adet.
+
+52
+00:02:54,246 --> 00:02:56,585
+Temsili fiyat 9.050 lira 47 kuruş.
+
+53
+00:02:56,635 --> 00:03:00,151
+Birim ürün maliyeti 3.624 lira 29 kuruş.
+
+54
+00:03:00,576 --> 00:03:03,217
+Toplam sabit maliyet 11 milyon 670 bin lira.
+
+55
+00:03:03,267 --> 00:03:06,096
+Kar marjı 5.426 lira 18 kuruş.
+
+56
+00:03:06,146 --> 00:03:07,785
+Başa baş, 2.151 adet.
+
+57
+00:03:08,735 --> 00:03:11,817
+Bu değerleri AGY-112 PDF'ine girelim.
+
+58
+00:03:12,261 --> 00:03:15,371
+Kar marjını ve başa baş adedini PDF kendi hesaplar.
+
+59
+00:03:15,866 --> 00:03:16,641
+Karşılaştıralım.
+
+60
+00:03:17,591 --> 00:03:20,448
+Modelin sonucu 2.151 adet.
+
+61
+00:03:20,544 --> 00:03:23,972
+PDF 2.150 virgül 68 buluyor;
+
+62
+00:03:24,305 --> 00:03:25,822
+yuvarlanınca aynı sonuç.
+
+63
+00:03:26,093 --> 00:03:27,055
+Kar marjı da aynı.
+
+64
+00:03:28,005 --> 00:03:32,741
+Üç ürün, beş yıl ve her yıl farklı rakamlar, formun tek sütununa sığdı.
+
+65
+00:03:32,343 --> 00:03:37,186
+Form, varsayımlarını tabloların altında özetlemeni de ister.
+
+66
+00:03:37,236 --> 00:03:38,810
+Bu metin de hazır gelir.
+
+67
+00:03:39,441 --> 00:03:42,656
+Değerlendiren kişi sayının nereden geldiğini görür.
+
+68
+00:03:43,606 --> 00:03:45,950
+Gerçek işini kısıtlamadan modelle.
+
+69
+00:03:46,207 --> 00:03:50,498
+AGY-112 Bölüm 4.4 tablolarını aynı veriden üret.
+
+70
+00:03:51,030 --> 00:03:54,807
+Hesabını oluştur, finansal projeksiyonunu bugün kurmaya başla.

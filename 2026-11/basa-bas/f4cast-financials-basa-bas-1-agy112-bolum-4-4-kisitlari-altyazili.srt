@@ -1,0 +1,291 @@
+1
+00:00:00,300 --> 00:00:03,936
+AGY-112 Bölüm 4.4 başa baş analizi.
+
+2
+00:00:04,404 --> 00:00:06,259
+Bu, üç videoluk serinin ilk videosu.
+
+3
+00:00:06,309 --> 00:00:09,063
+Birinci videoda formun kısıtlarını ve bu
+
+4
+00:00:09,113 --> 00:00:13,230
+kısıtların gerçek hayattan ne kadar uzak olduğunu göreceğiz.
+
+5
+00:00:13,457 --> 00:00:15,133
+İkinci videoda çok ürünlü,
+
+6
+00:00:15,183 --> 00:00:18,349
+rakamları her yıl değişen bir işi forma adım adım
+
+7
+00:00:18,399 --> 00:00:21,723
+sığdıracağız ve sonucu PDF ile karşılaştıracağız.
+
+8
+00:00:21,773 --> 00:00:23,726
+Üçüncü videoda ise bu modelin
+
+9
+00:00:23,776 --> 00:00:27,171
+uygulayıcı kuruluşlara ne sağladığına bakacağız.
+
+10
+00:00:28,121 --> 00:00:31,897
+Sensör, yazılım lisansı ve kurulum hizmeti satıyorsun.
+
+11
+00:00:31,947 --> 00:00:35,141
+Fiyatların her yıl değişiyor, maliyetlerin de.
+
+12
+00:00:34,756 --> 00:00:36,805
+Beş yıllık planın hazır.
+
+13
+00:00:36,480 --> 00:00:39,140
+Sonra AGY-112'nin Bölüm 4.4'üne
+
+14
+00:00:39,190 --> 00:00:43,542
+geliyorsun ve form senden tek bir sayı istiyor.
+
+15
+00:00:43,612 --> 00:00:44,457
+Hangi ürünün?
+
+16
+00:00:44,633 --> 00:00:45,289
+Hangi yılın?
+
+17
+00:00:46,239 --> 00:00:49,484
+Bölüm 4.4 dört tablodan oluşur:
+
+18
+00:00:49,505 --> 00:00:54,701
+gelirler, değişken maliyetler, sabit maliyetler ve başa baş analizi.
+
+19
+00:00:54,960 --> 00:00:56,623
+Hesabı PDF kendisi yapar.
+
+20
+00:00:57,224 --> 00:01:02,205
+Birim satış fiyatından birim ürün maliyetini çıkarır, kar marjını bulur.
+
+21
+00:01:02,232 --> 00:01:05,043
+Toplam sabit maliyeti bu marja böler.
+
+22
+00:01:05,245 --> 00:01:06,873
+Sonuç, başa baş adedidir.
+
+23
+00:01:07,823 --> 00:01:10,450
+Önce en basit durumdan başlayalım.
+
+24
+00:01:10,354 --> 00:01:11,835
+Tek ürün, tek fiyat.
+
+25
+00:01:11,846 --> 00:01:15,735
+Beş yıl boyunca her yıl 1.000 adet, 10.000 lira fiyat,
+
+26
+00:01:15,785 --> 00:01:19,867
+4.000 lira birim maliyet, 3 milyon lira sabit maliyet.
+
+27
+00:01:19,743 --> 00:01:24,298
+Modelde kar marjı 6.000 lira, başa baş 500 adet çıkar.
+
+28
+00:01:24,326 --> 00:01:26,421
+Beş sütunun beşi de aynıdır.
+
+29
+00:01:27,371 --> 00:01:30,798
+Aynı rakamları AGY-112 PDF'ine girelim.
+
+30
+00:01:31,329 --> 00:01:34,970
+PDF de 6.000 lira kar marjı ve 500 adet başa baş bulur.
+
+31
+00:01:35,020 --> 00:01:36,274
+İki sonuç aynıdır.
+
+32
+00:01:36,059 --> 00:01:38,098
+Gerçek hayat böyle olsaydı,
+
+33
+00:01:38,148 --> 00:01:42,185
+bu tabloları hazırlamak zaten çok kolay bir iş olurdu.
+
+34
+00:01:43,135 --> 00:01:44,719
+Bu sadelik bir tercihtir.
+
+35
+00:01:45,006 --> 00:01:49,153
+Değerlendiren kişi çok farklı girişimleri aynı kalıpta görebilir.
+
+36
+00:01:49,225 --> 00:01:52,420
+Sorun, gerçek bir işin bu kalıba nasıl sığacağıdır.
+
+37
+00:01:53,370 --> 00:01:55,896
+Form "ürünün" başa baş noktasını sorar.
+
+38
+00:01:56,185 --> 00:01:58,920
+Oysa bir tıbbi cihaz firması cihazı satar,
+
+39
+00:01:58,970 --> 00:02:01,546
+asıl kazancı sarf malzemesinden gelir.
+
+40
+00:02:01,646 --> 00:02:04,454
+Bir yazılım girişiminin üç paketi vardır.
+
+41
+00:02:04,515 --> 00:02:09,190
+Form ayrıca proje süresini ve izleyen beş yılı dikkate almanı ister.
+
+42
+00:02:09,066 --> 00:02:12,680
+Ama her satırda tek hücre vardır, yıl sütunu yoktur.
+
+43
+00:02:13,630 --> 00:02:15,191
+Fiyat da tek bir sayıdır.
+
+44
+00:02:15,439 --> 00:02:19,701
+Oysa ilk müşterine indirim yaparsın, sonra fiyatını yükseltirsin.
+
+45
+00:02:19,450 --> 00:02:23,325
+Enflasyon her yıl fiyatını ve maliyetini değiştirir.
+
+46
+00:02:23,189 --> 00:02:26,305
+Üretim büyüdükçe tedarikçin iskonto verir.
+
+47
+00:02:26,409 --> 00:02:29,043
+Tek hücre bunların hiçbirini göstermez.
+
+48
+00:02:29,993 --> 00:02:31,959
+Sabit maliyet de sabit kalmaz.
+
+49
+00:02:32,501 --> 00:02:36,475
+Satışın eşiği geçince ikinci hattı kurarsın, destek ekibi alırsın.
+
+50
+00:02:36,921 --> 00:02:39,605
+Üstelik form binanın amortismanını ister,
+
+51
+00:02:39,655 --> 00:02:43,249
+ama makine yatırımını doğrudan sabit maliyete yazdırır.
+
+52
+00:02:43,507 --> 00:02:47,442
+Tek seferlik bir yatırım, başa baş adedini bir anda yukarı iter.
+
+53
+00:02:48,392 --> 00:02:50,834
+Formülün görmediği şeyler de vardır.
+
+54
+00:02:51,072 --> 00:02:55,417
+Diğer gelirler tabloda yer alır, ama başa baş hesabında kullanılmaz.
+
+55
+00:02:55,769 --> 00:02:58,310
+Gerçek hayatta danışmanlık ya da eğitim
+
+56
+00:02:58,360 --> 00:03:01,206
+geliri giderlerini karşılamana yardım eder;
+
+57
+00:03:01,323 --> 00:03:02,653
+formülde bu görünmez.
+
+58
+00:03:03,033 --> 00:03:07,719
+Proje döneminde yaptığın harcamaların nereye yazılacağı belli değildir.
+
+59
+00:03:07,760 --> 00:03:11,417
+Satışı bugün yaparsın, paranı 90 gün sonra alırsın;
+
+60
+00:03:11,376 --> 00:03:15,276
+kâğıtta başa baş olmuş bir girişimin kasası boş olabilir.
+
+61
+00:03:15,192 --> 00:03:17,606
+Abonelikte bir adet neye denk gelir,
+
+62
+00:03:17,656 --> 00:03:21,467
+komisyonla kazanan bir pazaryerinde birim fiyat nedir?
+
+63
+00:03:21,737 --> 00:03:23,638
+Bu tanımı sen yapmak zorundasın.
+
+64
+00:03:24,588 --> 00:03:28,528
+Sensör, lisans ve kurulum satan kurgusal bir girişime bakalım.
+
+65
+00:03:28,814 --> 00:03:30,447
+Yalnız sensörü forma yazıyor.
+
+66
+00:03:30,877 --> 00:03:34,514
+Birinci yılın rakamlarıyla başa baş 1.250 adet çıkar.
+
+67
+00:03:34,797 --> 00:03:38,504
+Beş yılın ortalama sabit maliyetiyle 2.375.
+
+68
+00:03:38,898 --> 00:03:43,722
+Beşinci yılın marjı ve bütün dönemin giderleriyle 6.778.
+
+69
+00:03:43,835 --> 00:03:48,173
+Birinci yılın marjıyla aynı toplamı bölerse 12.708.
+
+70
+00:03:48,214 --> 00:03:51,166
+Dört cevabın dördü de formülün kendisine uyar.
+
+71
+00:03:52,116 --> 00:03:55,278
+Aynı form, aynı formül ve çok farklı sonuçlar.
+
+72
+00:03:55,328 --> 00:03:58,576
+Peki gerçek işini bu forma nasıl sığdırırsın?
+
+73
+00:03:58,626 --> 00:04:02,135
+Bir sonraki videoda bunu adım adım göstereceğiz.
